@@ -3,5 +3,27 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD181210
   title: རཏྣ་གླིང་པའི་གཏེར་ཆོས།
-  volume: ''
+  volume:
+    7187589b743d47e685c8a7b58fb60c42:
+      image_group_id: I1KG16284
+      title: Volume 1 of rat+na gling pa'i gter chos/
+      volume_number: 1
+      total_pages: 1470
+    a8baf03be46f4afc9a70fcbfb24d7c4f:
+      image_group_id: I1KG16285
+      title: Volume 2 of rat+na gling pa'i gter chos/
+      volume_number: 2
+      total_pages: 702
+    be6aaa0c52f943db930ca30c694cc6a9:
+      image_group_id: I1KG16286
+      title: Volume 3 of rat+na gling pa'i gter chos/
+      volume_number: 3
+      total_pages: 206
   author: ''
+ebook_metadata:
+  title: རཏྣ་གླིང་པའི་གཏེར་ཆོས།
+  author: ''
+  sku: P007961
+  cover: cover.jpg
+  layers:
+  - pagination
