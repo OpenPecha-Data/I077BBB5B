@@ -5,21 +5,24 @@ source_metadata:
   title: རཏྣ་གླིང་པའི་གཏེར་ཆོས།
   author: ''
   volumes:
-    cc764da0612d476c896ca282d19f7719:
+    7187589b743d47e685c8a7b58fb60c42:
       image_group_id: I1KG16284
-      title: ''
+      title: Volume 1 of rat+na gling pa'i gter chos/
       volume_number: 1
       total_pages: 1470
-    525896332e32408f8598d809583d7e56:
+      base_file: v001.txt
+    a8baf03be46f4afc9a70fcbfb24d7c4f:
       image_group_id: I1KG16285
-      title: ''
+      title: Volume 2 of rat+na gling pa'i gter chos/
       volume_number: 2
       total_pages: 702
-    e1b923b5ea2545c2a8783675f30d63ed:
+      base_file: v002.txt
+    be6aaa0c52f943db930ca30c694cc6a9:
       image_group_id: I1KG16286
-      title: ''
+      title: Volume 3 of rat+na gling pa'i gter chos/
       volume_number: 3
       total_pages: 206
+      base_file: v003.txt
 ebook_metadata:
   title: རཏྣ་གླིང་པའི་གཏེར་ཆོས།
   author: ''
